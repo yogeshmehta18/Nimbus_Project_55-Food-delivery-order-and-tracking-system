@@ -6,16 +6,16 @@ This project is a C-based simulation of a food delivery management system simila
 
 Feature-
 
-1.Add New Orders:
+1. Add New Orders:
 Create new orders with details such as order ID, customer name, restaurant name, status, and delivery time.
 
-2.Update Order Status:
+2. Update Order Status:
 Change the status of any order (e.g., Placed, Preparing, Out for Delivery, Delivered).
 
-3.View Delivery History:
+3. View Delivery History:
 Display all stored orders and their details using loops and arrays of structures.
 
-4.Performance Report:
+4. Performance Report:
 Generate summaries like average delivery time and number of completed orders.
 
 5.Dynamic Handling with Pointers:
@@ -25,4 +25,4 @@ Members-
 1 yogeshmehta18
 2 rehanahmad5884
 3 Arnav-cuian
-4 
+4 lakshya817
